@@ -1,0 +1,7 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+        		time   e   a   b   d0   d1  d2  d3
+                   0	0	0	0	0	1	1	1
+                 100	0	0	1	1	0	1	1
+                 200	0	1	0	1	1	0	1
+                 300	0	1	1	1	1	1	0
