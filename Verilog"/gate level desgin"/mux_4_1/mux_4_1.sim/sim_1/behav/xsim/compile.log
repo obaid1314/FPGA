@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado/Verilog/Gate_Level_Designs/mux_4_1/mux_4_1.srcs/sources_1/new/mux_4_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado/Verilog/Gate_Level_Designs/mux_4_1/mux_4_1.srcs/sim_1/new/mux_4_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4_1_tb

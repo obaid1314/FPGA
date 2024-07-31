@@ -1,0 +1,12 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+I0=1 I1=0 I2=1 I3=0
+
+Time=                 100 S0=0 S1=0 y=1
+
+Time=                 200 S0=0 S1=1 y=0
+
+Time=                 300 S0=1 S1=0 y=1
+
+Time=                 400 S0=1 S1=1 y=0
+
