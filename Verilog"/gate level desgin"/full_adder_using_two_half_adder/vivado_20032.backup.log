@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Jul 31 02:46:44 2024
+# Process ID: 20032
+# Current directory: E:/Vivado/Verilog/Gate_Level_Designs/full_adder_using_two_half_adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20300 E:\Vivado\Verilog\Gate_Level_Designs\full_adder_using_two_half_adder\full_adder_using_two_half_adder.xpr
+# Log file: E:/Vivado/Verilog/Gate_Level_Designs/full_adder_using_two_half_adder/vivado.log
+# Journal file: E:/Vivado/Verilog/Gate_Level_Designs/full_adder_using_two_half_adder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Vivado/Verilog/Gate_Level_Designs/full_adder_using_two_half_adder/full_adder_using_two_half_adder.xpr
+INFO: [Project 1-313] Project file moved from 'E:/Vivado/Gate_Level_Designs/full_adder_using_two_half_adder' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:04 ; elapsed = 00:00:06 . Memory (MB): peak = 819.332 ; gain = 84.023
+update_compile_order -fileset sources_1
+close_project
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Jul 31 02:49:14 2024...

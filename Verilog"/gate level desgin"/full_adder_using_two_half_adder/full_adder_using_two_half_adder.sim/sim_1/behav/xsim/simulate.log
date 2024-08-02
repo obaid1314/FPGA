@@ -1,0 +1,12 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+				 Time 	a 	 b 	 c 	 s 	 c_out
+                   0	0	0	0	0	0
+                 100	0	0	1	1	0
+                 200	0	1	0	1	0
+                 300	0	1	1	0	1
+                 400	1	0	0	1	0
+                 500	1	0	1	0	1
+                 600	1	1	0	0	1
+                 700	1	1	1	1	1
+$finish called at time : 800 ns : File "E:/Vivado/Verilog/Gate_Level_Designs/full_adder_using_two_half_adder/full_adder_using_two_half_adder.srcs/sim_1/new/full_adder_using_two_half_adder_tb.v" Line 44
