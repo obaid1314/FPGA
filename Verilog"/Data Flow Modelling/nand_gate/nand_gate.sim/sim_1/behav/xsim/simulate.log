@@ -1,0 +1,8 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+				Time	x	y	z
+                   0	0	0	1
+                 100	0	1	1
+                 200	1	0	1
+                 300	1	1	0
+$finish called at time : 400 ns : File "E:/Vivado/Verilog/Data_Flow_Modelling/nand_gate/nand_gate.srcs/sim_1/new/nand_gate_tb.v" Line 36
