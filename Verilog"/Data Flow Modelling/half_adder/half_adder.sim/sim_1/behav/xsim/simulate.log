@@ -1,0 +1,8 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+				Time	x	y	s	c
+                   0	0	0	0	0
+                 100	0	1	1	0
+                 200	1	0	1	0
+                 300	1	1	0	1
+$finish called at time : 400 ns : File "E:/Vivado/Verilog/Data_Flow_Modelling/half_adder/half_adder.srcs/sim_1/new/half_adder_tb.v" Line 36
