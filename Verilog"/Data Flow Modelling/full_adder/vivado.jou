@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Aug  3 15:33:28 2024
+# Process ID: 956
+# Current directory: E:/Vivado/Verilog/Data_Flow_Modelling/full_adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9568 E:\Vivado\Verilog\Data_Flow_Modelling\full_adder\full_adder.xpr
+# Log file: E:/Vivado/Verilog/Data_Flow_Modelling/full_adder/vivado.log
+# Journal file: E:/Vivado/Verilog/Data_Flow_Modelling/full_adder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Vivado/Verilog/Data_Flow_Modelling/full_adder/full_adder.xpr
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+close_design
+launch_simulation
+source full_adder_tb.tcl
+close_sim
